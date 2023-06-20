@@ -1,3 +1,5 @@
+[![Build OpenWrt](https://github.com/Shenl1n/OpenWrt-x86_64-firmware/actions/workflows/build-openwrt.yml/badge.svg)](https://github.com/Shenl1n/OpenWrt-x86_64-firmware/actions/workflows/build-openwrt.yml)
+
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
 # Actions-OpenWrt
